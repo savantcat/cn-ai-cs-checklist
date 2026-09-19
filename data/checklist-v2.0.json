@@ -17,7 +17,18 @@
    "clauses_covered": 31
   },
   "disclaimer": "本清单由合尘猫依标准原文整理，非标准发布机构发布，不构成认证、审计结论或法律意见；标准解释以官方正式文本为准。条文引用仅为条款定位所需最短摘录。",
-  "citation": "合尘猫. AI 客服国标自查清单 v2.0（GB/T 47746—2026）. 2026-09-19. https://savantcat.cn/ai-compliance-check.html"
+  "citation": "合尘猫. AI 客服国标自查清单 v2.0（GB/T 47746—2026）. 2026-09-19. https://savantcat.cn/ai-compliance-check.html",
+  "brand": "合尘猫 SavantCat",
+  "license": "CC BY 4.0（署名 + 保留来源链接）；商业使用需授权",
+  "attribution_required": true,
+  "citation_required": true,
+  "_watermark": {
+   "owner": "合尘猫 SavantCat",
+   "source": "https://savantcat.cn",
+   "fingerprint": "f5d984a3d6967a5c",
+   "issued": "2026-09-19",
+   "terms": "引用须保留署名与来源链接；发现未署名的二次分发请通知我们"
+  }
  },
  "items": [
   {

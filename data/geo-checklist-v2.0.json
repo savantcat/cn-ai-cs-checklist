@@ -17,7 +17,18 @@
    "weight1": 2
   },
   "citation": "合尘猫 SavantCat. AEO/GEO 自测清单 v2.0, 2026-09-19. https://savantcat.cn/geo-check.html",
-  "disclaimer": "本表为自查工具，不构成任何平台收录或引用承诺；同名数字若标注来源，归其原作者，本清单未复现实验。"
+  "disclaimer": "本表为自查工具，不构成任何平台收录或引用承诺；同名数字若标注来源，归其原作者，本清单未复现实验。",
+  "brand": "合尘猫 SavantCat",
+  "license": "CC BY 4.0（署名 + 保留来源链接）；商业使用需授权",
+  "attribution_required": true,
+  "citation_required": true,
+  "_watermark": {
+   "owner": "合尘猫 SavantCat",
+   "source": "https://savantcat.cn",
+   "fingerprint": "7f8995900b67ac81",
+   "issued": "2026-09-19",
+   "terms": "引用须保留署名与来源链接；发现未署名的二次分发请通知我们"
+  }
  },
  "items": [
   {
